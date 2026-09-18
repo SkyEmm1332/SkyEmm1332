@@ -1,0 +1,27 @@
+name: generate-pacman
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: SkyEmm1332
+          outputs: |
+            output/pacman-contribution-graph-dark.svg
+            output/pacman-contribution-graph-light.svg
+      - name: push output files
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config --global user.name "github-actions[bot]"
+            git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add output
+            git commit -m "chore: update pacman contribution graph"
+            git push
+          fi
