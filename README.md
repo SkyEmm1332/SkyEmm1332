@@ -33,7 +33,7 @@ Développement web et gestion de projets digitaux : support technique, analyse d
 ## 📊 GitHub Stats
 
 [![](https://github-readme-stats.vercel.app/api?username=SkyEmm1332&theme=city_lights&hide_border=false&border_radius=5)](https://github.com/SkyEmm1332)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=SkyEmm1332&theme=city_lights&hide_border=false&border_radius=5)](https://github.com/SkyEmm1332)
+[![](https://streak-stats.demolab.com?user=SkyEmm1332&theme=city_lights&hide_border=false&border_radius=5)](https://github.com/SkyEmm1332)
 
 ---
 
