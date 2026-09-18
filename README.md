@@ -12,11 +12,11 @@ Développement web et gestion de projets digitaux : support technique, analyse d
 
 ## 🚀 About Me — À Propos
 
-**Titi Benie Christian Sky Emmanuel**, basé à Abidjan (Côte d'Ivoire), je combine deux profils complémentaires : développeur web capable de livrer des applications robustes, et gestionnaire de projets capable de coordonner des équipes, former les utilisateurs et piloter l'amélioration continue.
+**Sky Emmanuel**, basé à Abidjan (Côte d'Ivoire), je combine deux profils complémentaires : ***développeur web*** capable de livrer des applications robustes, et ***gestionnaire*** de projets capable de coordonner des équipes, former les utilisateurs et piloter l'amélioration continue.
 
 - 💻 **Développement web** : applications sur mesure, sites vitrines, tableaux de bord (JavaScript, TypeScript, React, Node.js, Express, MongoDB, MySQL)
 - 📊 **Analyse & automatisation** : reporting, visualisation de données, automatisation des contrôles de performance
-- 🛠️ **Support technique & maintenance** : déploiement terrain, gestion des incidents (ASTEN, systèmes de caisse PROSUMA)
+- 🛠️ **Support technique & maintenance** : déploiement terrain, gestion des incidents
 - 🎓 **Formation** : Master en Gestion de Projet (BEM Abidjan), Licence en Système Informatique et Génie Logiciel (ESATIC)
 - 📍 **Localisation** : Abidjan, Côte d'Ivoire — disponible à distance et en présentiel
 
@@ -28,7 +28,7 @@ Développement web et gestion de projets digitaux : support technique, analyse d
 
 [![](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,git,github,vscode,figma,trello)](https://skillicons.dev)
 
-**Outils & méthodes** : Jira, Notion, Canva, Adobe XD — méthodologies agiles, gestion de projet, support utilisateur.
+**Outils & méthodes** : Jira, Canva, Adobe XD — méthodologies agiles, gestion de projet, support utilisateur.
 
 ## 📊 GitHub Stats
 
