@@ -6,6 +6,10 @@
 
 Développement web et gestion de projets digitaux : support technique, analyse de données, automatisation et coordination d'équipes. Mon parcours combine le terrain (PROSUMA, 7Greens) et la technique pour livrer des solutions fiables et performantes.
 
+## ⌘ Commit Activity
+
+![Pacman Contribution Graph](https://raw.githubusercontent.com/SkyEmm1332/SkyEmm1332/output/pacman-contribution-graph-dark.svg)
+
 ## 🚀 About Me — À Propos
 
 **Titi Benie Christian Sky Emmanuel**, basé à Abidjan (Côte d'Ivoire), je combine deux profils complémentaires : développeur web capable de livrer des applications robustes, et gestionnaire de projets capable de coordonner des équipes, former les utilisateurs et piloter l'amélioration continue.
@@ -30,10 +34,6 @@ Développement web et gestion de projets digitaux : support technique, analyse d
 
 [![](https://github-readme-stats.vercel.app/api?username=SkyEmm1332&theme=city_lights&hide_border=false&border_radius=5)](https://github.com/SkyEmm1332)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=SkyEmm1332&theme=city_lights&hide_border=false&border_radius=5)](https://github.com/SkyEmm1332)
-
-## ⌘ Commit Activity
-
-![Pacman Contribution Graph](https://raw.githubusercontent.com/SkyEmm1332/SkyEmm1332/output/pacman-contribution-graph-dark.svg)
 
 ---
 
