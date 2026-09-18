@@ -37,7 +37,7 @@ Développement web et gestion de projets digitaux : support technique, analyse d
 
 ## ⌘ Commit Activity
 
-![Pacman Contribution Graph](https://raw.githubusercontent.com/SkyEmm1332/SkyEmm1332/output/pacman-contribution-graph-dark.svg)
+![Pacman Contribution Graph](https://raw.githubusercontent.com/SkyEmm1332/SkyEmm1332/main/output/pacman-contribution-graph-dark.svg)
 
 ## ⌘ Philosophy
 
