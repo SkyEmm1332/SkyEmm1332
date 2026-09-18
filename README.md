@@ -1,4 +1,4 @@
-# Hi 👋, I'm Titi Benie Christian Sky Emmanuel
+# Hi 👋, Moi c'est Sky Emmanuel
 
 ### Web Developer & Digital Project Manager — Développeur Web & Gestionnaire de Projets
 
