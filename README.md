@@ -31,17 +31,9 @@ Développement web et gestion de projets digitaux : support technique, analyse d
 [![](https://github-readme-stats.vercel.app/api?username=SkyEmm1332&theme=city_lights&hide_border=false&border_radius=5)](https://github.com/SkyEmm1332)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=SkyEmm1332&theme=city_lights&hide_border=false&border_radius=5)](https://github.com/SkyEmm1332)
 
-## 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SkyEmm1332&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16)](https://github.com/SkyEmm1332)
-
 ## ⌘ Commit Activity
 
 ![Pacman Contribution Graph](https://raw.githubusercontent.com/SkyEmm1332/SkyEmm1332/output/pacman-contribution-graph-dark.svg)
-
-## ⌘ Philosophy
-
-![Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
