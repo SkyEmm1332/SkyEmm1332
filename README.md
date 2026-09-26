@@ -1,4 +1,5 @@
 # Salut 👋, Moi c'est Sky Emmanuel
+¯\_( ͡° ͜ʖ ͡°)_/¯
 
 ### Développeur Web & Gestionnaire de Projets Digitaux
 
