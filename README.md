@@ -3,7 +3,7 @@
 
 ### Développeur Web & Chef de projet 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=D%C3%A9veloppeur+Web+%26+Gestionnaire+de+Projets;Applications+web+sur+mesure;Analyse+de+donn%C3%A9es+%26+automatisation;Gestion+de+projet;Bas%C3%A9+%C3%A0+Abidjan%2C+C%C3%B4te+d%27Ivoire)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=D%C3%A9veloppeur+Web+%26+Chef+de+Projets;Applications+web+sur+mesure;Analyse+de+donn%C3%A9es+%26+automatisation;Bas%C3%A9+%C3%A0+Abidjan%2C+C%C3%B4te+d%27Ivoire)](https://git.io/typing-svg)
 
 Développement web et gestion de projets : gestion des taches, analyse de données, automatisation et coordination d'équipes. Mon parcours combine le terrain et la technique pour livrer des solutions fiables et performantes.
 
